@@ -1,4 +1,4 @@
-module github.com/stevedylandev/hub-monorepo/packages/hub-web/examples/golang-submitmessage
+module github.com/stevedylandev/golang-submitmessage
 
 go 1.21.2
 
